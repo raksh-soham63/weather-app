@@ -55,7 +55,7 @@ const Card = () => {
   }
 
   useEffect(() => {
-    getData("Bankura")
+    getData("")
   }, [])
 
   return (
